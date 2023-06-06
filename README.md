@@ -1,13 +1,20 @@
 # soundsensepack
-unofficial "Official soundpack" for SoundSense
+This is an alternate soundpack for [SoundSense-rs](https://github.com/prixt/soundsense-rs).
 
+This pack works with the new sounds produced for version 50 of
+Dwarf Fortress. *This pack **does not** contain copyrighted sounds 
+from the game*. The purchaser of the game is responsible for  
+providing them.
 
-unofficial update of zwei's "Official soundpack" for SoundSense
-from http://df.zweistein.cz/soundsense/
+## How to install
+1. Clone this repository where the soundsense-rs executable is located.
 
+```
+git clone https://github.com/prixt/soundsense-rs.git pack
+```
 
-Credits for help for to [tyrspawn](http://www.krauselabs.net/) and Rainseeker :). Music from following sources was also used:
+2. Copy the sound directory from DF 50 to the pack directory.
 
- * [Simon Swerwer](http://www.reverbnation.com/simonswerwer) - OST
- * [Roguelike Bard](http://roguebard.eptalys.net/)
- * [Kevin MacLeod](http://incompetech.com/m/c/royalty-free/index.html)
+![copy the sound directory over to this soundpack](https://i.imgur.com/H0raLf2.png)
+
+This is a fork of [Jecowa's repository](https://github.com/jecowa) with a few tweaks.
