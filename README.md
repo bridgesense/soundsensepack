@@ -10,7 +10,8 @@ providing them.
 1. Clone this repository where the soundsense-rs executable is located.
 
 ```
-git clone https://github.com/prixt/soundsense-rs.git pack
+cd soundsense-rs
+git clone https://github.com/bridgesense/soundsensepack.git pack
 ```
 
 2. Copy the sound directory from DF 50 to the pack directory.
