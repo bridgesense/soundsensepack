@@ -3,8 +3,7 @@ This is an alternate soundpack for [SoundSense-rs](https://github.com/prixt/soun
 
 This pack works with the new sounds produced for version 50 of
 Dwarf Fortress. *This pack **does not** contain copyrighted sounds 
-from the game*. The purchaser of the game is responsible for  
-providing them.
+from the game*. The purchaser of the game is responsible for providing them.
 
 ## How to install
 1. Clone this repository where the soundsense-rs executable is located.
