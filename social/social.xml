@@ -2,6 +2,7 @@
 <sounds>
 
 	<sound logPattern="The (.+) and the (.+) have married\.  Congratulations!" playbackThreshhold="3">
+    <soundFile fileName="../sound/sounds/wedding.ogg" />
 		<soundFile fileName="bell.mp3" randomBalance="true">
 			<attribution url="https://www.freesound.org/people/Peaveycroquette/sounds/78381/" license="CC BY 3.0" author="Peaveycroquette" description="Angelus Bell.aif" />
 		</soundFile>
@@ -25,6 +26,7 @@
 	</sound>
 
 	<sound logPattern="(.+) has given birth to a boy\." playbackThreshhold="3">
+    <soundFile fileName="../sound/sounds/baby_born.ogg" />
 		<soundFile fileName="babyborn/babyborn_01.mp3" />
 		<soundFile fileName="babyborn/babyborn_02.mp3" />
 		<soundFile fileName="babyborn/babyborn_03.mp3" />
@@ -32,6 +34,7 @@
 	</sound>
 
 	<sound logPattern="(.+) has given birth to a girl\." playbackThreshhold="3">
+    <soundFile fileName="../sound/sounds/baby_born.ogg" />
 		<soundFile fileName="babyborn/babyborn_01.mp3" />
 		<soundFile fileName="babyborn/babyborn_02.mp3" />
 		<soundFile fileName="babyborn/babyborn_03.mp3" />
@@ -39,6 +42,7 @@
 	</sound>
 
 	<sound logPattern="(.+) has given birth to ((twins)|(triplets))\." playbackThreshhold="3">
+    <soundFile fileName="../sound/sounds/baby_born.ogg" />
 		<soundFile fileName="babyborn/babyborn_01.mp3" />
 		<soundFile fileName="babyborn/babyborn_02.mp3" />
 		<soundFile fileName="babyborn/babyborn_03.mp3" />

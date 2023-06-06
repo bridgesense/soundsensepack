@@ -103,6 +103,13 @@
 
 	<sound logPattern="(Spring has arrived!)|(Spring has arrived on the calendar\.)" loop="start" channel="music" playbackThreshhold="0">
 
+    <soundFile fileName="../sound/tracks/another_year/AY_1.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_2.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_3.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_4.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_5.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_Full.ogg" />
+
 		<soundFile fileName="spring/Willow and the Light.mp3" />
 		<soundFile fileName="spring/Savannah Sketch.mp3" />
 		<soundFile fileName="spring/Not As It Seems.mp3" />
@@ -132,6 +139,20 @@
 
 	<sound logPattern="(It is now summer\.)|(Summer has arrived on the calendar\.)" loop="start" channel="music" playbackThreshhold="0">
 
+    <soundFile fileName="../sound/tracks/hill_dwarf/HD_1.ogg" />
+    <soundFile fileName="../sound/tracks/hill_dwarf/HD_2.ogg" />
+    <soundFile fileName="../sound/tracks/hill_dwarf/HD_3.ogg" />
+    <soundFile fileName="../sound/tracks/hill_dwarf/HD_4.ogg" />
+    <soundFile fileName="../sound/tracks/hill_dwarf/HD_5.ogg" />
+    <soundFile fileName="../sound/tracks/hill_dwarf/HD_Full.ogg" />
+
+    <soundFile fileName="../sound/tracks/mountainhome/MH_1.ogg" />
+    <soundFile fileName="../sound/tracks/mountainhome/MH_2.ogg" />
+    <soundFile fileName="../sound/tracks/mountainhome/MH_3.ogg" />
+    <soundFile fileName="../sound/tracks/mountainhome/MH_4.ogg" />
+    <soundFile fileName="../sound/tracks/mountainhome/MH_5.ogg" />
+    <soundFile fileName="../sound/tracks/mountainhome/MH_Full.ogg" />
+
 		<soundFile fileName="summer/Chase.mp3" />
 		<soundFile fileName="summer/Heroic Age.mp3" />
 		<soundFile fileName="summer/Expeditionary.mp3" />
@@ -159,6 +180,9 @@
 
 	<sound logPattern="(Autumn has come\.)|(Autumn has arrived on the calendar\.)" loop="start" channel="music" playbackThreshhold="0">
 
+    <soundFile fileName="../sound/tracks/drink_&_industry/DI_Full.ogg" />
+    <soundFile fileName="../sound/tracks/strange_moods/SM_Full.ogg" />
+
 		<soundFile fileName="autumn/The Pyre.mp3" />
 		<soundFile fileName="autumn/Temple of the Manes.mp3" />
 		<soundFile fileName="autumn/Skye Cuillin.mp3" />
@@ -184,6 +208,14 @@
 	</sound>
 
 	<sound logPattern="(Winter is upon you\.)|(Winter has arrived on the calendar\.)" loop="start" channel="music" playbackThreshhold="0">
+
+    <soundFile fileName="../sound/tracks/winter_entombs_you/WEY_1.ogg" />
+    <soundFile fileName="../sound/tracks/winter_entombs_you/WEY_2.ogg" />
+    <soundFile fileName="../sound/tracks/winter_entombs_you/WEY_3.ogg" />
+    <soundFile fileName="../sound/tracks/winter_entombs_you/WEY_4.ogg" />
+    <soundFile fileName="../sound/tracks/winter_entombs_you/WEY_Full.ogg" />
+
+    <soundFile fileName="../sound/tracks/death_spiral/DS_Full.ogg" />
 
 		<soundFile fileName="winter/Unpromised.mp3" />
 		<soundFile fileName="winter/To the Ends.mp3" />

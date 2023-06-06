@@ -2,6 +2,12 @@
 <sounds defaultAnsiFormat="&#27;[31m">
 
 	<sound logPattern="The Forgotten Beast (.+) has come!  ((A)|(An)) (.+)" channel="music" playbackThreshhold="1">
+    <soundFile fileName="../sound/tracks/forgotten_beast/FB_1.ogg" />
+    <soundFile fileName="../sound/tracks/forgotten_beast/FB_2.ogg" />
+    <soundFile fileName="../sound/tracks/forgotten_beast/FB_3.ogg" />
+    <soundFile fileName="../sound/tracks/forgotten_beast/FB_4.ogg" />
+    <soundFile fileName="../sound/tracks/forgotten_beast/FB_5.ogg" />
+    <soundFile fileName="../sound/tracks/forgotten_beast/FB_Full.ogg" />
 		<!-- http://opengameart.org/content/radakan-dramatic-event-2 -->	
 		<soundFile fileName="Radakan - Dramatic event 2.mp3" />
 		<!-- http://opengameart.org/content/radakan-game-lost -->
@@ -29,6 +35,12 @@
 	</sound>
 
 	<sound logPattern="A vile force of darkness has arrived!" channel="music" playbackThreshhold="1">
+    <soundFile fileName="../sound/tracks/vile_force_of_darkness/VFOD_1.ogg" />
+    <soundFile fileName="../sound/tracks/vile_force_of_darkness/VFOD_2.ogg" />
+    <soundFile fileName="../sound/tracks/vile_force_of_darkness/VFOD_3.ogg" />
+    <soundFile fileName="../sound/tracks/vile_force_of_darkness/VFOD_4.ogg" />
+    <soundFile fileName="../sound/tracks/vile_force_of_darkness/VFOD_5.ogg" />
+    <soundFile fileName="../sound/tracks/vile_force_of_darkness/VFOD_Full.ogg" />
 		<soundFile fileName="../seasons/Musopen.Com  Arvo Part-Magnificat.mp3" />
 	</sound>
 	
@@ -54,6 +66,7 @@
 	</sound>
 	
 	<sound logPattern="An ambush!  Curse them!" playbackThreshhold="2">
+    <soundFile fileName="../sound/sounds/ambush.ogg" />
 		<soundFile fileName="goblin/ambush1.mp3" />
 		<soundFile fileName="goblin/ambush2.mp3" />
 		<soundFile fileName="goblin/ambush3.mp3" />

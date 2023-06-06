@@ -3,10 +3,11 @@
 	
 	<sound logPattern="\*\*\* STARTING NEW GAME \*\*\*" channel="music" loop="stop" playbackThreshhold="0">
 		<!-- http://opengameart.org/content/radakan-moldan-chase-over-success -->
-		<soundFile fileName="Radakan - Moldan Chase over (success).mp3" />
+    <soundFile fileName="../sound/tracks/dwarf_fortress/Dwarf_Fortress.ogg" />
 	</sound>
 	
 	<sound logPattern="Generating world using parameter set (.+)" channel="music" loop="stop" playbackThreshhold="0">
+    <soundFile fileName="../sound/tracks/koganusan/KG_Full.ogg" />
 		<soundFile fileName="Crypto.mp3" >
 			<attribution url="https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600013" license="CC BY 3.0" author="Kevin MacLeod" description="Crypto" />
 		</soundFile>
@@ -30,6 +31,11 @@
 	</sound>
 	
 	<sound logPattern="\*\* Starting New Outpost \*\*" channel="music" loop="start" playbackThreshhold="0">
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_4.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_Full.ogg" />
 		<soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
 		<soundFile fileName="../seasons/spring/Savannah Sketch.mp3" />
 		<soundFile fileName="../seasons/spring/Not As It Seems.mp3" />
@@ -41,7 +47,12 @@
 	</sound>
 	
 	<sound logPattern="\*\* Starting Reclaim \*\*" channel="music" loop="start" playbackThreshhold="0">
-		<soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_4.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_Full.ogg" />
+    <soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
 		<soundFile fileName="../seasons/spring/Savannah Sketch.mp3" />
 		<soundFile fileName="../seasons/spring/Not As It Seems.mp3" />
 		<soundFile fileName="../seasons/spring/Celtic Impulse.mp3" />
@@ -93,7 +104,13 @@
 	</sound>
 
 	<sound logPattern="\*\* Loading Fortress \*\*" channel="music" loop="start" playbackThreshhold="0">
-		<soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
+    <soundFile fileName="../sound/tracks/another_year/AY_1.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_2.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_3.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_4.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_5.ogg" />
+    <soundFile fileName="../sound/tracks/another_year/AY_Full.ogg" />
+    <soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
 		<soundFile fileName="../seasons/spring/Savannah Sketch.mp3" />
 		<soundFile fileName="../seasons/spring/Not As It Seems.mp3" />
 		<soundFile fileName="../seasons/spring/Celtic Impulse.mp3" />
@@ -145,7 +162,12 @@
 	</sound>
 	
 	<sound logPattern="\*\* Starting New Arena \*\*" channel="music" loop="start" playbackThreshhold="0">
-		<soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_4.ogg" />
+    <soundFile fileName="../sound/tracks/strike_the_earth!/STE_Full.ogg" />
+    <soundFile fileName="../seasons/spring/Willow and the Light.mp3" />
 		<soundFile fileName="../seasons/spring/Savannah Sketch.mp3" />
 		<soundFile fileName="../seasons/spring/Not As It Seems.mp3" />
 		<soundFile fileName="../seasons/spring/Celtic Impulse.mp3" />

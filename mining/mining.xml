@@ -10,6 +10,7 @@
 	</sound>
 
 	<sound logPattern="Raw adamantine!  Praise the miners!" playbackThreshhold="1" ansiPattern="&#27;[34m">
+    <soundFile fileName="../sound/sounds/adamantine.ogg" />
 		<!-- from dwarf fortress intro -->
 		<soundFile fileName="DFINTRO.mp3" />
 		<soundFile fileName="DFINTROEND.mp3" />
@@ -21,7 +22,12 @@
 		<soundFile fileName="win music 3.mp3" />
 	</sound>
 
-	<sound logPattern="You have discovered an expansive cavern deep underground\." channel="music" playbackThreshhold="1" ansiPattern="&#27;[34m">
+  <sound logPattern="You have discovered an expansive cavern deep underground\." channel="music" playbackThreshhold="1" ansiPattern="&#27;[34m">
+    <soundFile fileName="../sound/tracks/expansive_cavern/EC_1.ogg" />
+    <soundFile fileName="../sound/tracks/expansive_cavern/EC_2.ogg" />
+    <soundFile fileName="../sound/tracks/expansive_cavern/EC_3.ogg" />
+    <soundFile fileName="../sound/tracks/expansive_cavern/EC_4.ogg" />
+    <soundFile fileName="../sound/tracks/expansive_cavern/EC_Full.ogg" />
 		<!-- from dwarf fortress intro -->
 		<soundFile fileName="DFINTRO.mp3" />
 		<soundFile fileName="DFINTROEND.mp3" />
@@ -38,6 +44,7 @@
 	</sound>
 	
 	<sound logPattern="You have discovered an eerie cavern\.  The air above the dark stone floor is alive with vortices of purple light and dark, boiling clouds\.  Seemingly bottomless glowing pits mark the surface\.">
+    <soundFile fileName="../sound/ambience/Cavern.ogg" />
 		<soundFile fileName="demon/Scary_Demon_Haunting-Adam_Webb-97651262_cut1.ogg" />
 		<soundFile fileName="demon/Scary_Demon_Haunting-Adam_Webb-97651262_cut2.ogg" />
 		<soundFile fileName="demon/Scary_Demon_Haunting-Adam_Webb-97651262_cut3.ogg" />
@@ -51,6 +58,7 @@
 	</sound>
 	
 	<sound logPattern="Horrifying screams come from the darkness below!">
+    <soundFile fileName="../sound/ambience/Evil.ogg" />
 		<soundFile fileName="demon/Scary_Demon_Haunting-Adam_Webb-97651262_cut1.ogg" />
 		<soundFile fileName="demon/Scary_Demon_Haunting-Adam_Webb-97651262_cut2.ogg" />
 		<soundFile fileName="demon/Scary_Demon_Haunting-Adam_Webb-97651262_cut3.ogg" />

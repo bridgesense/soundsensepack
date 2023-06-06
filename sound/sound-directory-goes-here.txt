@@ -1,0 +1,2 @@
+Overwrite this directory with the sound directory located at data/sound
+in your Dwarf Fortress v50 installation.

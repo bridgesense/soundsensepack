@@ -2,6 +2,7 @@
 <sounds defaultAnsiFormat="&#27;[34;1m">
 	
 	<sound logPattern="A caravan from (.+) has arrived\." channel="trade" playbackThreshhold="1">
+    <soundFile fileName="../sound/ambience/Trade_Depot.ogg" />
 	 	<!-- http://www.freesound.org/samplesViewSingle.php?id=4248 -->
 	 	<soundFile fileName="4248__dobroide__horse.cart_cobbles.mp3" />
 	 	<!-- http://www.freesound.org/samplesViewSingle.php?id=92656 -->
@@ -11,6 +12,7 @@
 	</sound>
 	 
 	<sound logPattern="A (.+) caravan from (.+) has arrived\." channel="trade" playbackThreshhold="1">
+    <soundFile fileName="../sound/ambience/Trade_Depot.ogg" />
 	 	<!-- http://www.freesound.org/samplesViewSingle.php?id=4248 -->
 	 	<soundFile fileName="4248__dobroide__horse.cart_cobbles.mp3" />
 	 	<!-- http://www.freesound.org/samplesViewSingle.php?id=92656 -->
@@ -43,6 +45,7 @@
 	</sound>
 	
 	<sound logPattern="Merchants have arrived and are unloading their goods\." channel="trade" playbackThreshhold="2" ansiFormat="&#27;[34m">
+    <soundFile fileName="../sound/ambience/Trade_Depot.ogg" />
 		<!-- http://www.freesound.org/samplesViewSingle.php?id=77524 -->
 		<soundFile fileName="77524__Superex1110__cart_roll.mp3" />
 		<!-- http://www.freesound.org/samplesViewSingle.php?id=79575 -->
