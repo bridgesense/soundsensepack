@@ -15,6 +15,6 @@ git clone https://github.com/bridgesense/soundsensepack.git pack
 
 2. Copy the sound directory from DF 50 to the pack directory.
 
-![copy the sound directory over to this soundpack](replace_sound_directory.png)
+![copy the sound directory over to this soundpack](https://github.com/bridgesense/soundsensepack/blob/master/replace-sound-directory.png?raw=true)
 
 This is a fork of [Jecowa's repository](https://github.com/jecowa) with a few tweaks.
