@@ -13,8 +13,10 @@ cd soundsense-rs
 git clone https://github.com/bridgesense/soundsensepack.git pack
 ```
 
-2. Copy the sound directory from DF 50 to the pack directory.
+2. Replace the sound directory with the one from your DF 50 installation.
 
-![copy the sound directory over to this soundpack](https://github.com/bridgesense/soundsensepack/blob/master/replace-sound-directory.png?raw=true)
+![copy the sound directory over to this soundpack](https://github.com/bridgesense/soundsensepack/blob/master/replace-sound-directory.png?raw=truereplace_sound_directory.png)
 
-This is a fork of [Jecowa's repository](https://github.com/jecowa) with a few tweaks.
+This is a fork of [Jecowa's repository](https://github.com/jecowa) with a few teaks:
+* The weather tracks have all been tapered for background ambiance.
+* Music loops pause after three tracks.
