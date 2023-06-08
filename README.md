@@ -20,3 +20,4 @@ git clone https://github.com/bridgesense/soundsensepack.git pack
 This is a fork of [Jecowa's repository](https://github.com/jecowa) with a few teaks:
 * The weather tracks have all been tapered for background ambiance.
 * Music loops pause after three tracks.
+* More music and sound references have been added from DF 50.
