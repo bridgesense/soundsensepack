@@ -18,6 +18,6 @@ git clone https://github.com/bridgesense/soundsensepack.git pack
 ![copy the sound directory over to this soundpack](https://github.com/bridgesense/soundsensepack/blob/master/replace-sound-directory.png?raw=truereplace_sound_directory.png)
 
 This is a fork of [Jecowa's repository](https://github.com/jecowa) with a few teaks:
-* The weather tracks have all been tapered for background ambiance.
+* The weather tracks have all been tapered for a less jarring background ambiance.
 * Endless music loops are gone, replaced by a single random track per event.
 * More music and sound references have been added from DF 50.
