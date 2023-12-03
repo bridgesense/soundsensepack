@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <sounds>
 
-  <sound logPattern="\*\* ((Starting)|(Loading)|(Unretiring)) Adventurer \*\*" loop="stop" channel="music" ansiFormat="&#27;[33;1m">
+  <sound logPattern="\*\* ((Starting)|(Loading)|(Unretiring)) Adventurer \*\*" loop="start" channel="music" ansiFormat="&#27;[33;1m">
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />

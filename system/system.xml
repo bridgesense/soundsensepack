@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <sounds defaultAnsiFormat="&#27;[33;1m">
 	
-	<sound logPattern="\*\*\* STARTING NEW GAME \*\*\*" channel="music" loop="stop" playbackThreshhold="0">
+	<sound logPattern="\*\*\* STARTING NEW GAME \*\*\*" channel="music" loop="start" playbackThreshhold="0">
 		<!-- http://opengameart.org/content/radakan-moldan-chase-over-success -->
     <soundFile fileName="../sound/tracks/dwarf_fortress/Dwarf_Fortress.ogg" />
 	</sound>
@@ -30,7 +30,7 @@
 		<soundFile fileName="embark/embark_12.mp3" />
 	</sound>
 	
-  <sound logPattern="\*\* Starting New Outpost \*\*" channel="music" loop="stop" playbackThreshhold="0">
+  <sound logPattern="\*\* Starting New Outpost \*\*" channel="music" loop="start" playbackThreshhold="0">
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />
@@ -46,7 +46,7 @@
 		<soundFile fileName="../seasons/simonswerwer/Simon Swerwer-Whip Vine.mp3" />
 	</sound>
 	
-	<sound logPattern="\*\* Starting Reclaim \*\*" channel="music" loop="stop" playbackThreshhold="0">
+	<sound logPattern="\*\* Starting Reclaim \*\*" channel="music" loop="start" playbackThreshhold="0">
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />
@@ -103,7 +103,7 @@
 		<soundFile fileName="../seasons/roguebard/7_20.mp3" />
 	</sound>
 
-	<sound logPattern="\*\* Loading Fortress \*\*" channel="music" loop="stop" playbackThreshhold="0">
+	<sound logPattern="\*\* Loading Fortress \*\*" channel="music" loop="start" playbackThreshhold="0">
     <soundFile fileName="../sound/tracks/another_year/AY_1.ogg" />
     <soundFile fileName="../sound/tracks/another_year/AY_2.ogg" />
     <soundFile fileName="../sound/tracks/another_year/AY_3.ogg" />
@@ -161,7 +161,7 @@
 		<soundFile fileName="../seasons/roguebard/7_20.mp3" />
 	</sound>
 	
-  <sound logPattern="\*\* Starting New Arena \*\*" channel="music" loop="stop" playbackThreshhold="0">
+  <sound logPattern="\*\* Starting New Arena \*\*" channel="music" loop="start" playbackThreshhold="0">
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_1.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_2.ogg" />
     <soundFile fileName="../sound/tracks/strike_the_earth!/STE_3.ogg" />
